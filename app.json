@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tinderAttendence",
+    "slug": "tinderAttendence",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tinderAttendence"
+}
