@@ -1,0 +1,66 @@
+{
+
+
+"data":[
+    {"key":"1",
+    "Year":"2001",
+     "Branch":"cse",
+     "Course":"BTech",
+     "Semester":"7th"
+},
+{"key":"2",
+"Year":"2001",
+ "Branch":"cse",
+ "Course":"BTech",
+ "Semester":"7th"
+},
+{"key":"3",
+"Year":"2001",
+ "Branch":"cse",
+ "Course":"BTech",
+ "Semester":"7th"
+},
+{"key":"4",
+"Year":"2001",
+ "Branch":"cse",
+ "Course":"BTech",
+ "Semester":"7th"
+},
+{"key":"5",
+"Year":"2001",
+ "Branch":"cse",
+ "Course":"BTech",
+ "Semester":"7th"
+},
+{"key":"6",
+"Year":"2001",
+ "Branch":"cse",
+ "Course":"BTech",
+ "Semester":"7th"
+},
+{"key":"7",
+"Year":"2001",
+ "Branch":"cse",
+ "Course":"BTech",
+ "Semester":"7th"
+},
+{"key":"8",
+"Year":"2001",
+ "Branch":"cse",
+ "Course":"BTech",
+ "Semester":"7th"
+},
+{"key":"9",
+"Year":"2001",
+ "Branch":"cse",
+ "Course":"BTech",
+ "Semester":"7th"
+},
+{"key":"10",
+"Year":"2001",
+ "Branch":"cse",
+ "Course":"BTech",
+ "Semester":"7th"
+}
+]
+}
